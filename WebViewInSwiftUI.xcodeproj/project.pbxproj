@@ -11,6 +11,7 @@
 		63664CD5275798B700867400 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63664CD4275798B700867400 /* ContentView.swift */; };
 		63664CD7275798C000867400 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63664CD6275798C000867400 /* Assets.xcassets */; };
 		63664CDA275798C000867400 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63664CD9275798C000867400 /* Preview Assets.xcassets */; };
+		63664CE32757990900867400 /* SwiftUIWebview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63664CE22757990900867400 /* SwiftUIWebview.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		63664CD6275798C000867400 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		63664CD9275798C000867400 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		63664CDB275798C000867400 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		63664CE22757990900867400 /* SwiftUIWebview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIWebview.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +38,7 @@
 		63664CC6275798B700867400 = {
 			isa = PBXGroup;
 			children = (
+				63664CE22757990900867400 /* SwiftUIWebview.swift */,
 				63664CD1275798B700867400 /* WebViewInSwiftUI */,
 				63664CD0275798B700867400 /* Products */,
 			);
@@ -140,6 +143,7 @@
 			files = (
 				63664CD5275798B700867400 /* ContentView.swift in Sources */,
 				63664CD3275798B700867400 /* WebViewInSwiftUIApp.swift in Sources */,
+				63664CE32757990900867400 /* SwiftUIWebview.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
